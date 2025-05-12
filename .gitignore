@@ -6,3 +6,4 @@ commands/utility/keys.json
 commands/utility/generatekey.js
 keys.json
 commands/utility/whitelistadd.js
+hwids.json
